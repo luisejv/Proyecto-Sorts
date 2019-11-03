@@ -1,0 +1,114 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/Heap.hpp
+container.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/container.hpp
+funciones.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/funciones.hpp
+string
+-
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/Merge.hpp
+container.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/container.hpp
+funciones.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/funciones.hpp
+string
+-
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/Quick.hpp
+container.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/container.hpp
+funciones.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/funciones.hpp
+string
+-
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/Shell.hpp
+container.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/container.hpp
+funciones.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/funciones.hpp
+string
+-
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/Sorter.hpp
+Merge.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/Merge.hpp
+Quick.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/Quick.hpp
+Heap.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/Heap.hpp
+Shell.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/Shell.hpp
+container.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/container.hpp
+string
+-
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/container.hpp
+string
+-
+iostream
+-
+iterator
+-
+vector
+-
+fstream
+-
+sstream
+-
+map.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/map.hpp
+deserializador.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/deserializador.hpp
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/deserializador.hpp
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/funciones.hpp
+map.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/map.hpp
+vector
+-
+fstream
+-
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+string
+-
+map
+-
+container.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/container.hpp
+map.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/map.hpp
+Sorter.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/Sorter.hpp
+sumarizar.h
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/sumarizar.h
+funciones.hpp
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/funciones.hpp
+ctime
+-
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/map.hpp
+string
+-
+
+D:/UTEC/Ciclo II/POO II/Pr2/Proyecto 2 Maca/Proyecto 2 Final/sumarizar.h
+
